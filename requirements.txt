@@ -1,0 +1,7 @@
+deep-translator>=1.11.4
+SpeechRecognition>=3.17.0
+sounddevice>=0.5.0
+numpy>=2.0.0
+miniaudio>=1.71.0
+edge-tts>=7.2.0
+gTTS>=2.5.0
